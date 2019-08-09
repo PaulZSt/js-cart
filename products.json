@@ -1,0 +1,22 @@
+[
+  {
+    "id" : 11,
+    "title" : "Reebok Classics CL LTHR",
+    "price" : 2980
+  },
+  {
+    "id" : 22,
+    "title" : "Reebok Classics ROYAL COMPLETE CLN",
+    "price" : 6080
+  },
+  {
+    "id" : 33,
+    "title" : "Reebok FLEXAGON 2.0",
+    "price" : 1930
+  },
+  {
+    "id" : 44,
+    "title" : "Reebok Energy Lux",
+    "price" : 1330
+  }
+]
